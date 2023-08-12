@@ -1,0 +1,22 @@
+cff-version: 1.2.0
+title: Klipper TTP223 Z-Probe sensor
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - email: anton@sychev.xyz
+    given-names: Anton
+    family-names: Sychev
+    affiliation: too
+repository-code: "https://github.com/klich3/klipper-ttp223-z-probe-sensor"
+url: "https://sychev.xyz"
+abstract: ""
+keywords:
+  - klipper
+  - z-probe
+  - ttp223
+  - voron
+license: MIT
+version: 0.0.1
+date-released: "2023-08-12"
